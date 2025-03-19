@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 31049,
+        "fileSize": 48236,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -46,7 +46,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
@@ -284,7 +284,7 @@
         "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 49468,
+        "fileSize": 50958,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -293,7 +293,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "VipPhimProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/VipPhimProvider.cs3",
