@@ -3,7 +3,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 31083,
+        "fileSize": 31696,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 32550,
+        "fileSize": 33106,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 48236,
+        "fileSize": 48083,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -56,7 +56,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.chat&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 29344,
+        "fileSize": 29280,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -75,7 +75,7 @@
         "iconUrl": "https://hhpanda.city/static/favicon-16x16.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 29207,
+        "fileSize": 29770,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -93,7 +93,7 @@
         "iconUrl": "https://hhtm.site/storage/settings/July2024/3lXnhx2D9su1L7ikma82.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 32112,
+        "fileSize": 32063,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -112,7 +112,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 44638,
+        "fileSize": 44602,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -131,7 +131,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 48844,
+        "fileSize": 48849,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -150,7 +150,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 21300,
+        "fileSize": 21242,
         "status": 1,
         "language": "",
         "authors": [
@@ -169,7 +169,7 @@
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 44964,
+        "fileSize": 44758,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -188,7 +188,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 28851,
+        "fileSize": 28745,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -207,7 +207,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 30388,
+        "fileSize": 30352,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -225,7 +225,7 @@
         "iconUrl": "https://phimtuoitho.site/uploads/system_logo/favicon_66e1bd1b3276b.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 31001,
+        "fileSize": 30928,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -245,7 +245,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 26569,
+        "fileSize": 27340,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -264,7 +264,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.us&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 39108,
+        "fileSize": 39060,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -284,7 +284,7 @@
         "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 50958,
+        "fileSize": 52050,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -293,7 +293,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "VipPhimProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/VipPhimProvider.cs3",
