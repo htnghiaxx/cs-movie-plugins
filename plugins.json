@@ -75,7 +75,7 @@
         "iconUrl": "https://hhpanda.city/static/favicon-16x16.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 30008,
+        "fileSize": 31393,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -83,7 +83,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "HHPandaProvider",
         "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
@@ -227,7 +227,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
         "fileSize": 27446,
-        "status": 1,
+        "status": 0,
         "authors": [
             "anhdaden"
         ],
