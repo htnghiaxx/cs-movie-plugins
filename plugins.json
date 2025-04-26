@@ -20,7 +20,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 33232,
+        "fileSize": 33198,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -28,7 +28,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "AnimeVietsubProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeVietsubProvider.cs3",
         "name": "AnimeVietsubProvider"
@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 48209,
+        "fileSize": 49331,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -93,7 +93,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 44744,
+        "fileSize": 45350,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -112,7 +112,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 49335,
+        "fileSize": 49803,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -150,7 +150,7 @@
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 44912,
+        "fileSize": 45480,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -265,7 +265,7 @@
         "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 52249,
+        "fileSize": 52281,
         "status": 1,
         "authors": [
             "anhdaden"
