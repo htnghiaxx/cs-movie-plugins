@@ -3,14 +3,14 @@
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
         "fileSize": 9890,
-        "status": 2,
+        "status": 1,
         "authors": [
             "anhdaden"
         ],
         "tvTypes": [
             "Others"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "MovieProvider",
         "description": "\u0110\u1ed5i DNS v\u00e0 k\u00edch ho\u1ea1t repo phim",
         "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/MovieProvider.cs3",
@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 34067,
+        "fileSize": 33358,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -54,7 +54,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 49887,
+        "fileSize": 49195,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -63,7 +63,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
@@ -129,7 +129,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 51193,
+        "fileSize": 50504,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -139,7 +139,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "NguonCProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
@@ -167,7 +167,7 @@
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 46797,
+        "fileSize": 46025,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -177,7 +177,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "OPhimProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
@@ -223,7 +223,7 @@
         "iconUrl": "https://phimtuoitho.site/uploads/system_logo/favicon_66e1bd1b3276b.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 31978,
+        "fileSize": 31219,
         "status": 1,
         "authors": [
             "anhdaden"
