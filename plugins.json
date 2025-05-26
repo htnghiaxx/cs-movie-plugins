@@ -129,7 +129,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 50504,
+        "fileSize": 50897,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -139,7 +139,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "NguonCProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
