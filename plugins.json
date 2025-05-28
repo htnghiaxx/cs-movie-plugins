@@ -10,9 +10,9 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 2,
+        "version": 1,
         "internalName": "MovieProvider",
-        "description": "\u0110\u1ed5i DNS v\u00e0 k\u00edch ho\u1ea1t repo phim",
+        "description": "Phải cài đặt repo này và kích hoạt mới tải được các nguồn bên dưới",
         "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/MovieProvider.cs3",
         "name": "ActiveMoviePluginProvider"
     },
