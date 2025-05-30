@@ -37,7 +37,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 33358,
+        "fileSize": 33857,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -45,7 +45,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "AnimeVietsubProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeVietsubProvider.cs3",
         "name": "AnimeVietsubProvider"
@@ -129,7 +129,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 50897,
+        "fileSize": 50875,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -139,7 +139,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "NguonCProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
