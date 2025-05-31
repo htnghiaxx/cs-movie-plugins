@@ -2,7 +2,7 @@
     {
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
-        "fileSize": 9890,
+        "fileSize": 8878,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -10,7 +10,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "MovieProvider",
         "description": "Phải cài đặt repo này và kích hoạt mới tải được các nguồn bên dưới",
         "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/MovieProvider.cs3",
