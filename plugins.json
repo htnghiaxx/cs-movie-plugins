@@ -17,7 +17,7 @@
         "name": "ActiveMoviePluginProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.in&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.ceo&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 32152,
@@ -34,7 +34,7 @@
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.app&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.lol&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 33857,
@@ -51,7 +51,7 @@
         "name": "AnimeVietsubProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim3.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 49186,
@@ -70,7 +70,7 @@
         "name": "BluPhimProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.chat&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.biz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 30078,
@@ -89,7 +89,7 @@
         "name": "HHkungfuProvider"
     },
     {
-        "iconUrl": "https://hhpanda.city/static/favicon-16x16.png",
+        "iconUrl": "https://hhpanda.ee/static/favicon-16x16.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 32348,
@@ -129,7 +129,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 50875,
+        "fileSize": 51098,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -139,7 +139,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "NguonCProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
@@ -202,7 +202,7 @@
         "name": "PhimLongTiengProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoiplus.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 31125,
@@ -240,10 +240,10 @@
         "name": "PhimTuoiThoProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.us&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.pe&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 39881,
+        "fileSize": 39626,
         "status": 1,
         "authors": [
             "anhdaden"
