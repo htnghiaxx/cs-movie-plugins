@@ -89,7 +89,7 @@
         "name": "HHkungfuProvider"
     },
     {
-        "iconUrl": "https://hhpanda.ee/static/favicon-16x16.png",
+        "iconUrl": "https://hhpanda.win/static/apple-touch-icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 32348,
@@ -100,7 +100,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "HHPandaProvider",
         "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
@@ -129,7 +129,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 51098,
+        "fileSize": 51108,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -139,7 +139,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "NguonCProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
