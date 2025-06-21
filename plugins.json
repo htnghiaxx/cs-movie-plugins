@@ -129,7 +129,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 51108,
+        "fileSize": 51052,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -139,7 +139,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 15,
+        "version": 16,
         "internalName": "NguonCProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
@@ -223,7 +223,7 @@
         "iconUrl": "https://phimtuoitho.site/uploads/system_logo/favicon_66e1bd1b3276b.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 31219,
+        "fileSize": 31214,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -233,7 +233,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "PhimTuoiThoProvider",
         "description": "Phim ho\u1ea1t h\u00ecnh tu\u1ed5i th\u01a1",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimTuoiThoProvider.cs3",
