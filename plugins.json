@@ -70,6 +70,24 @@
         "name": "BluPhimProvider"
     },
     {
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 36364,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "BlurayProvider",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/BlurayProvider.cs3",
+        "name": "BlurayProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.biz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
@@ -100,7 +118,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 13,
+        "version": 12,
         "internalName": "HHPandaProvider",
         "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
@@ -238,6 +256,25 @@
         "description": "Phim ho\u1ea1t h\u00ecnh tu\u1ed5i th\u01a1",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimTuoiThoProvider.cs3",
         "name": "PhimTuoiThoProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 41734,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PhimHDCProvider",
+        "description": "FullHD",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
+        "name": "PhimHDCProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.pe&sz=%size%",
