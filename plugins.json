@@ -195,7 +195,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "OPhimProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
