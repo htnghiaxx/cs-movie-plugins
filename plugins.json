@@ -85,7 +85,7 @@
         "version": 5,
         "internalName": "BlurayProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/BlurayProvider.cs3",
-        "name": "BlurayProvider"
+        "name": "ThuVienHD"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.biz&sz=%size%",
@@ -319,7 +319,7 @@
         "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 33239,
+        "fileSize": 34201,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -328,7 +328,7 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "YanHH3DProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
