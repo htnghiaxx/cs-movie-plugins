@@ -204,7 +204,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 29540,
+        "fileSize": 28559,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -213,7 +213,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "PhimLongTiengProvider",
         "description": "Phim TVB, phim x\u01b0a",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
