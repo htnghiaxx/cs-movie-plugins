@@ -128,7 +128,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 46361,
+        "fileSize": 45953,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -138,7 +138,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "KKPhimProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
