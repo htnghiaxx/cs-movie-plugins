@@ -280,7 +280,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.pe&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 39626,
+        "fileSize": 39711,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -290,7 +290,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "TvPhimProvider",
         "description": "720p thuy\u1ebft minh phim gi\u1ecdng hay",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/TvPhimProvider.cs3",
@@ -319,7 +319,7 @@
         "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 34201,
+        "fileSize": 34374,
         "status": 1,
         "authors": [
             "anhdaden"
