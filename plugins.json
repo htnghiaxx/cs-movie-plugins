@@ -281,7 +281,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 39711,
-        "status": 1,
+        "status": 0,
         "authors": [
             "anhdaden"
         ],
@@ -292,7 +292,7 @@
         ],
         "version": 12,
         "internalName": "TvPhimProvider",
-        "description": "720p thuy\u1ebft minh phim gi\u1ecdng hay",
+        "description": "Website đã ngừng hoạt động",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/TvPhimProvider.cs3",
         "name": "TvPhimProvider"
     },
