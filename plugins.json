@@ -261,7 +261,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 41734,
+        "fileSize": 42773,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -270,7 +270,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "PhimHDCProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
