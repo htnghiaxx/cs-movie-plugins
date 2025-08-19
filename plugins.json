@@ -125,6 +125,26 @@
         "name": "HHPandaProvider"
     },
     {
+        "iconUrl": "https://holitv.org/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 37064,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HoliTVProvider",
+        "description": "720p thuy\u1ebft minh phim gi\u1ecdng hay",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HoliTVProvider.cs3",
+        "name": "HoliTVProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
