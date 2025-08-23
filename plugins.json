@@ -118,7 +118,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "HHPandaProvider",
         "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
