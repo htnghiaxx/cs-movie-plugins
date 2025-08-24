@@ -243,7 +243,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoiplus.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 31125,
+        "fileSize": 30849,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -252,7 +252,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "PhimMoiProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimMoiProvider.cs3",
         "name": "PhimMoiProvider"
