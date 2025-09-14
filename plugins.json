@@ -371,5 +371,23 @@
         "internalName": "RoPhimProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main//RoPhimProvider.cs3",
         "name": "RoPhimProvider"
+    },
+    {
+        "iconUrl": "https://xem17.net/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
+        "fileSize": 25382,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Xem8zProvider",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/Xem8zProvider.cs3",
+        "name": "Xem8zProvider"
     }
 ]
