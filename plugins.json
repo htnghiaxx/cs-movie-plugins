@@ -129,7 +129,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 37064,
-        "status": 1,
+        "status": 2,
         "authors": [
             "anhdaden"
         ],
@@ -252,7 +252,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "PhimMoiProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimMoiProvider.cs3",
         "name": "PhimMoiProvider"
