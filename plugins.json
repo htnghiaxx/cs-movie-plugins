@@ -138,7 +138,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "HoliTVProvider",
         "description": "720p thuy\u1ebft minh phim gi\u1ecdng hay",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HoliTVProvider.cs3",
