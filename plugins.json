@@ -54,7 +54,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.uk.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 49186,
+        "fileSize": 37549,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -63,7 +63,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 18,
+        "version": 20,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
@@ -281,7 +281,7 @@
         "iconUrl": "https://phimhdc.com/favico.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 42773,
+        "fileSize": 45174,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -290,7 +290,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "PhimHDCProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
@@ -374,8 +374,8 @@
     {
         "iconUrl": "https://xem17.net/favicon.ico",
         "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cloudstream_extension_vn",
-        "fileSize": 25382,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 27689,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -384,9 +384,47 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Xem8zProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/Xem8zProvider.cs3",
         "name": "Xem8zProvider"
+    },
+    {
+        "iconUrl": "https://wsrv.nl/?url=https://lh3.googleusercontent.com/-S-0cFl_rSbg/Zm1Xwp9-rGI/AAAAAAAAEls/NjmOkF17atUtJQ0A1eIdyJLZygCloXKawCNcBGAsYHQ/h240/Ba%25CC%2589n%2Bsao%2Bcu%25CC%2589a%2Bhhtqteam.png&w=50&h=50",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 33333,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "HHTQProvider",
+        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHTQProvider.cs3",
+        "name": "HHTQProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yumei-anime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 28503,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "YumeiAnimeProvider",
+        "description": "Pokemon v\u00e0 super sentai",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/YumeiAnimeProvider.cs3",
+        "name": "YumeiAnimeProvider"
     }
 ]
