@@ -70,24 +70,6 @@
         "name": "BluPhimProvider"
     },
     {
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 36364,
-        "status": 0,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "BlurayProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/BlurayProvider.cs3",
-        "name": "ThuVienHD"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.ee&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
@@ -352,24 +334,6 @@
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
         "name": "YanHH3DProvider"
-    },
-    {
-        "iconUrl": "https://www.rophim.me/images/favicon.ico?v=0.1",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 40931,
-        "status": 0,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "RoPhimProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main//RoPhimProvider.cs3",
-        "name": "RoPhimProvider"
     },
     {
         "iconUrl": "https://xem17.net/favicon.ico",
