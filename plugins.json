@@ -184,25 +184,6 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ohitv.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 22349,
-        "status": 1,
-        "language": "",
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "OHiTVProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OHiTVProvider.cs3",
-        "name": "OHiTVProvider"
-    },
-    {
         "iconUrl": "https://ophim17.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
@@ -263,7 +244,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoiplus.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 30849,
+        "fileSize": 35700,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -272,7 +253,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "PhimMoiProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimMoiProvider.cs3",
         "name": "PhimMoiProvider"
