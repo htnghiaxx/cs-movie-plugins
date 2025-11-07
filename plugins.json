@@ -206,7 +206,7 @@
         "iconUrl": "https://phimhdc.com/favico.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 45174,
+        "fileSize": 46223,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -215,7 +215,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "PhimHDCProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
