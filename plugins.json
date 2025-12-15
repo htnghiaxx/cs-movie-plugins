@@ -54,7 +54,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.uk.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 37835,
+        "fileSize": 37870,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -63,7 +63,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 22,
+        "version": 23,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
