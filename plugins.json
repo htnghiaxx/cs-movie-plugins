@@ -234,7 +234,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 17,
+        "version": 16,
         "internalName": "PhimLongTiengProvider",
         "description": "Phim TVB, phim x\u01b0a",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
@@ -244,7 +244,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoiplus.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 35700,
+        "fileSize": 35807,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -253,7 +253,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "PhimMoiProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimMoiProvider.cs3",
         "name": "PhimMoiProvider"
