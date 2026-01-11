@@ -129,8 +129,8 @@
         "iconUrl": "https://holitv.org/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 37064,
-        "status": 0,
+        "fileSize": 36752,
+        "status": 1,
         "authors": [
             "anhdaden"
         ],
@@ -139,7 +139,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "HoliTVProvider",
         "description": "720p thuy\u1ebft minh phim gi\u1ecdng hay",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HoliTVProvider.cs3",
