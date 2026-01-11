@@ -110,7 +110,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.ee&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 30078,
+        "fileSize": 30770,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -119,7 +119,7 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "HHkungfuProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHkungfuProvider.cs3",
@@ -206,7 +206,7 @@
         "iconUrl": "https://phimhdc.com/favico.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 46223,
+        "fileSize": 46423,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -215,7 +215,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "PhimHDCProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
