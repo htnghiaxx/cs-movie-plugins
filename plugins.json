@@ -320,7 +320,7 @@
         "iconUrl": "https://xem17.net/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 27689,
+        "fileSize": 27881,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -329,7 +329,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Xem8zProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/Xem8zProvider.cs3",
         "name": "Xem8zProvider"
