@@ -17,7 +17,7 @@
         "name": "ActiveMoviePluginProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animehay.sbs&sz=%size%",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/animehay.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 33971,
@@ -34,10 +34,10 @@
         "name": "AnimeHayProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animevietsub.cam&sz=%size%",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/animevietsub.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 33857,
+        "fileSize": 34406,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -51,7 +51,7 @@
         "name": "AnimeVietsubProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.uk.com&sz=%size%",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/bluphim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 37870,
@@ -70,44 +70,7 @@
         "name": "BluPhimProvider"
     },
     {
-        "iconUrl": "https://hhtq.click/static/apple-touch-icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 32348,
-        "status": 0,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 13,
-        "internalName": "HHPandaProvider",
-        "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
-        "name": "HHPandaProvider"
-    },
-    {
-        "iconUrl": "https://wsrv.nl/?url=https://lh3.googleusercontent.com/-S-0cFl_rSbg/Zm1Xwp9-rGI/AAAAAAAAEls/NjmOkF17atUtJQ0A1eIdyJLZygCloXKawCNcBGAsYHQ/h240/Ba%25CC%2589n%2Bsao%2Bcu%25CC%2589a%2Bhhtqteam.png&w=50&h=50",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 33898,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 2,
-        "internalName": "HHTQProvider",
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHTQProvider.cs3",
-        "name": "HHTQProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=hhkungfu.ee&sz=%size%",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhkungfu.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 30770,
@@ -126,7 +89,44 @@
         "name": "HHkungfuProvider"
     },
     {
-        "iconUrl": "https://holitv.org/favicon.ico",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhpanda.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 32339,
+        "status": 0,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 13,
+        "internalName": "HHPandaProvider",
+        "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
+        "name": "HHPandaProvider"
+    },
+    {
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhtq.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "fileSize": 34377,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 2,
+        "internalName": "HHTQProvider",
+        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHTQProvider.cs3",
+        "name": "HHTQProvider"
+    },
+    {
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/holitv.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 36752,
@@ -141,12 +141,12 @@
         ],
         "version": 3,
         "internalName": "HoliTVProvider",
-        "description": "720p thuy\u1ebft minh phim gi\u1ecdng hay",
+        "description": "Thuy\u1ebft minh phim gi\u1ecdng hay",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HoliTVProvider.cs3",
         "name": "HoliTVProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kkphim.vip&sz=%size%",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/kkphim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 46812,
@@ -165,10 +165,10 @@
         "name": "KKPhimProvider"
     },
     {
-        "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/nguonc.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 50946,
+        "fileSize": 51647,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -184,10 +184,10 @@
         "name": "NguonCProvider"
     },
     {
-        "iconUrl": "https://ophim17.cc/icon_ophim.png",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/ophim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 46025,
+        "fileSize": 46639,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -203,10 +203,10 @@
         "name": "OPhimProvider"
     },
     {
-        "iconUrl": "https://phimhdc.com/favico.ico",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimhdc.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 46423,
+        "fileSize": 46688,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -215,14 +215,14 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "PhimHDCProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
         "name": "PhimHDCProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimlongtieng.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 30696,
@@ -241,7 +241,7 @@
         "name": "PhimLongTiengProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoiplus.net&sz=%size%",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimmoi.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 35807,
@@ -259,10 +259,10 @@
         "name": "PhimMoiProvider"
     },
     {
-        "iconUrl": "https://phimtuoitho.site/uploads/system_logo/favicon_66e1bd1b3276b.ico",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimtuoitho.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 31214,
+        "fileSize": 32002,
         "status": 0,
         "authors": [
             "anhdaden"
@@ -279,48 +279,10 @@
         "name": "PhimTuoiThoProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tvphim.bid&sz=%size%",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/xem8z.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 39711,
-        "status": 0,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 12,
-        "internalName": "TvPhimProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/TvPhimProvider.cs3",
-        "name": "TvPhimProvider"
-    },
-    {
-        "iconUrl": "https://www.vipphim.biz/assets/other/favicon/vip-phim/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 53101,
-        "status": 0,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 9,
-        "internalName": "VipPhimProvider",
-        "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/VipPhimProvider.cs3",
-        "name": "VipPhimProvider"
-    },
-    {
-        "iconUrl": "https://xem17.net/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 27881,
+        "fileSize": 27938,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -335,10 +297,10 @@
         "name": "Xem8zProvider"
     },
     {
-        "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 34409,
+        "fileSize": 36806,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -354,10 +316,10 @@
         "name": "YanHH3DProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yumei-anime.com&sz=%size%",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yumeianime.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 28503,
+        "fileSize": 28509,
         "status": 1,
         "authors": [
             "anhdaden"
