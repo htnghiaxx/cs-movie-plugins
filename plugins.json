@@ -207,7 +207,7 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimhdc.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 46688,
+        "fileSize": 50734,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -216,7 +216,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "PhimHDCProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
