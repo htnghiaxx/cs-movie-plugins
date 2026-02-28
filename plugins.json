@@ -207,7 +207,7 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimhdc.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 50734,
+        "fileSize": 39918,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -216,7 +216,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "PhimHDCProvider",
         "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
@@ -283,7 +283,7 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/xem8z.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 27938,
+        "fileSize": 29080,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -292,7 +292,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "Xem8zProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/Xem8zProvider.cs3",
         "name": "Xem8zProvider"
