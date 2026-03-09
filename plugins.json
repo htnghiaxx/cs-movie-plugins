@@ -283,7 +283,7 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/xem8z.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 29080,
+        "fileSize": 29853,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -292,7 +292,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "Xem8zProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/Xem8zProvider.cs3",
         "name": "Xem8zProvider"
@@ -301,7 +301,7 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 37565,
+        "fileSize": 38788,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -310,7 +310,7 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 22,
+        "version": 23,
         "internalName": "YanHH3DProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
