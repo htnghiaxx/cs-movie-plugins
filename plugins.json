@@ -21,7 +21,7 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/animehay.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 33971,
+        "fileSize": 35136,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -29,7 +29,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 12,
+        "version": 13,
         "internalName": "AnimeHayProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
