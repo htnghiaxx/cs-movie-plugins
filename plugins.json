@@ -71,25 +71,6 @@
         "name": "BluPhimProvider"
     },
     {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhkungfu.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 30770,
-        "status": 0,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 6,
-        "internalName": "HHkungfuProvider",
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHkungfuProvider.cs3",
-        "name": "HHkungfuProvider"
-    },
-    {
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhpanda.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
