@@ -226,7 +226,7 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimmoi.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 35807,
+        "fileSize": 38388,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -235,7 +235,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "PhimMoiProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimMoiProvider.cs3",
         "name": "PhimMoiProvider"
@@ -282,7 +282,7 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 38788,
+        "fileSize": 40982,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -291,7 +291,7 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 23,
+        "version": 24,
         "internalName": "YanHH3DProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
