@@ -282,7 +282,7 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 40982,
+        "fileSize": 40978,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -291,7 +291,7 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 24,
+        "version": 25,
         "internalName": "YanHH3DProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
