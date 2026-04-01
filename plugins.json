@@ -29,7 +29,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "AnimeHayProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
@@ -39,7 +39,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
         "fileSize": 34406,
-        "status": 1,
+        "status": 0,
         "authors": [
             "anhdaden"
         ],
