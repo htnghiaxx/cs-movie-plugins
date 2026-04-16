@@ -216,7 +216,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 17,
+        "version": 18,
         "internalName": "PhimLongTiengProvider",
         "description": "Phim TVB, phim x\u01b0a",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
