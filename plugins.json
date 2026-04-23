@@ -131,7 +131,7 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/kkphim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 46812,
+        "fileSize": 57758,
         "status": 1,
         "authors": [
             "anhdaden"
@@ -141,7 +141,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "KKPhimProvider",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
