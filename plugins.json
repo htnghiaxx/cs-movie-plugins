@@ -1,200 +1,200 @@
 [
     {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/animehay.ico",
-        "fileHash": "sha256-94d362542df5ca528d230a5b75772639d0f7ef584d99cbdde3faac1039397f62",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 44341,
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
         "status": 1,
+        "version": 18,
+        "name": "AnimeHayProvider",
+        "internalName": "AnimeHayProvider",
         "authors": [
             "anhdaden"
         ],
+        "fileSize": 43923,
+        "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime"
         ],
-        "version": 18,
-        "internalName": "AnimeHayProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
-        "name": "AnimeHayProvider"
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/animehay.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-b7459d109e7142dabc206668b98e1567bd1b6952298be36e1279847dd294b6da"
     },
     {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/bluphim.ico",
-        "fileHash": "sha256-965868a65e95b23eb1e92a4aa9cd5126dd08d8538ccbb30fd403786cbb0ef6ed",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 50648,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 24,
-        "internalName": "BluPhimProvider",
-        "description": "FullHD",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
-        "name": "BluPhimProvider"
-    },
-    {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhtq.ico",
-        "fileHash": "sha256-4bd356b67af7e41e954d2891f1a22edfb2b0a8285a3df449efbc1be7c134aa1b",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 42507,
         "status": 1,
+        "version": 24,
+        "name": "BluPhimProvider",
+        "internalName": "BluPhimProvider",
         "authors": [
             "anhdaden"
         ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 3,
-        "internalName": "HHTQProvider",
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHTQProvider.cs3",
-        "name": "HHTQProvider"
-    },
-    {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/kkphim.ico",
-        "fileHash": "sha256-167722e3325306620ea7164b75a0ee761fe8cf5e98ed1b21da4e3d0df1f5aa9b",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 58191,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 13,
-        "internalName": "KKPhimProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
-        "name": "KKPhimProvider"
-    },
-    {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/nguonc.ico",
-        "fileHash": "sha256-e96622de69e460a2f8325243fb2426562d2d5da814101494de8e8535f97a214c",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 62531,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 18,
-        "internalName": "NguonCProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
-        "name": "NguonCProvider"
-    },
-    {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/ophim.ico",
-        "fileHash": "sha256-cda29213b5da1c054ee3e2802b96046bf15a8563d647f3771ecf23d818fc286d",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 57639,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 13,
-        "internalName": "OPhimProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
-        "name": "OPhimProvider"
-    },
-    {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimhdc.ico",
-        "fileHash": "sha256-ec6d07f9c19fed3633acd22ca453a6b6f916db83797c555f06cebbfd6b98b1a3",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 50077,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 12,
-        "internalName": "PhimHDCProvider",
         "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
-        "name": "PhimHDCProvider"
-    },
-    {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimlongtieng.ico",
-        "fileHash": "sha256-6002d48b95e288140d3650dde687bdea6d834a6774fbf7e8df63b957d992564d",
-        "apiVersion": 1,
+        "fileSize": 50710,
         "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 40986,
-        "status": 1,
-        "authors": [
-            "anhdaden"
-        ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "version": 19,
-        "internalName": "PhimLongTiengProvider",
-        "description": "Phim TVB, phim x\u01b0a",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/bluphim.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-f4081560f37cf452bc0aee5bb0fa213b719f090166a0648d9a71d61f1d4c427a"
+    },
+    {
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHTQProvider.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "HHTQProvider",
+        "internalName": "HHTQProvider",
+        "authors": [
+            "anhdaden"
+        ],
+        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
+        "fileSize": 41977,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhtq.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-683b7b7829e69273d39e3188b1a07ee698e2659cb99ff86675429ee58e698b93"
+    },
+    {
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "KKPhimProvider",
+        "internalName": "KKPhimProvider",
+        "authors": [
+            "anhdaden"
+        ],
+        "fileSize": 58270,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/kkphim.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-450918f05c4a0f35232b918f265b631070ad2ccb9d21f69f7964ad2c4a0595b6"
+    },
+    {
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "NguonCProvider",
+        "internalName": "NguonCProvider",
+        "authors": [
+            "anhdaden"
+        ],
+        "fileSize": 62944,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/nguonc.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-5779fcab7e08fba804d1314ddc116e4cd5ddc69d96b3e04f19f5dc775a0637e0"
+    },
+    {
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
+        "status": 1,
+        "version": 13,
+        "name": "OPhimProvider",
+        "internalName": "OPhimProvider",
+        "authors": [
+            "anhdaden"
+        ],
+        "fileSize": 57691,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/ophim.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-1d4ae2464b303bb5eebfe91a5733d1ea3775f0de99a26bb55b16d2736b17a7f4"
+    },
+    {
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "PhimHDCProvider",
+        "internalName": "PhimHDCProvider",
+        "authors": [
+            "anhdaden"
+        ],
+        "description": "FullHD",
+        "fileSize": 49162,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimhdc.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-3b9507da96beede9d813c99af1aee031070efce7900f76a7f984aa15b02c8181"
+    },
+    {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
-        "name": "PhimLongTiengProvider"
-    },
-    {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
-        "fileHash": "sha256-aa7403d3c75b84840d2b76ef0e29370ea9177969edeb5d11316859994f1ec937",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 51798,
         "status": 1,
+        "version": 19,
+        "name": "PhimLongTiengProvider",
+        "internalName": "PhimLongTiengProvider",
         "authors": [
             "anhdaden"
         ],
+        "description": "Phim TVB, phim x\u01b0a",
+        "fileSize": 40290,
+        "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
-            "Anime",
-            "AnimeMovie"
+            "TvSeries",
+            "Movie"
         ],
-        "version": 28,
-        "internalName": "YanHH3DProvider",
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimlongtieng.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-5be59a94a884715b21d45526b6ad1684cfc4fedcbf21922b689623829787a3a3"
+    },
+    {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
-        "name": "YanHH3DProvider"
-    },
-    {
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yumeianime.ico",
-        "fileHash": "sha256-180df05987c84360b9ac6e6841546cc5ac19a6862711d2ead0bfbb747ba27c45",
-        "apiVersion": 1,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "fileSize": 36274,
         "status": 1,
+        "version": 28,
+        "name": "YanHH3DProvider",
+        "internalName": "YanHH3DProvider",
         "authors": [
             "anhdaden"
         ],
+        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
+        "fileSize": 53340,
+        "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
             "AnimeMovie"
         ],
-        "version": 2,
-        "internalName": "YumeiAnimeProvider",
-        "description": "Pokemon v\u00e0 super sentai",
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-88aa9eebba45352826da7fd66958972a1273d97027584ab372e83df0081df3fe"
+    },
+    {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YumeiAnimeProvider.cs3",
-        "name": "YumeiAnimeProvider"
+        "status": 1,
+        "version": 2,
+        "name": "YumeiAnimeProvider",
+        "internalName": "YumeiAnimeProvider",
+        "authors": [
+            "anhdaden"
+        ],
+        "description": "Pokemon v\u00e0 super sentai",
+        "fileSize": 36618,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yumeianime.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-8dacdeb32b588497e362dda26c2a58aabdda30805f6c7bdb4a837e42cb600b0f"
     }
 ]
