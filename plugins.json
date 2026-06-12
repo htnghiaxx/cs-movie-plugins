@@ -80,13 +80,13 @@
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "status": 1,
-        "version": 19,
+        "version": 20,
         "name": "NguonCProvider",
         "internalName": "NguonCProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 62944,
+        "fileSize": 65173,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -95,7 +95,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/nguonc.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-5779fcab7e08fba804d1314ddc116e4cd5ddc69d96b3e04f19f5dc775a0637e0"
+        "fileHash": "sha256-2b39d87a0a5a2c91c379703bfbe56f17543210576fc61bc9acf669c8a744d934"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
@@ -176,6 +176,25 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
         "apiVersion": 1,
         "fileHash": "sha256-88aa9eebba45352826da7fd66958972a1273d97027584ab372e83df0081df3fe"
+    },
+    {
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/Xem8zProvider.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "Xem8zProvider",
+        "internalName": "Xem8zProvider",
+        "authors": [
+            "anhdaden"
+        ],
+        "fileSize": 36380,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/xem8z.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-1fd8e7093846f4ed89e169c94633cfd6c63860a68454a53f57370ab05b1e8c86"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YumeiAnimeProvider.cs3",
