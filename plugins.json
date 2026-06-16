@@ -8,14 +8,14 @@
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 43923,
+        "fileSize": 44063,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime"
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/animehay.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-b7459d109e7142dabc206668b98e1567bd1b6952298be36e1279847dd294b6da"
+        "fileHash": "sha256-0d28471205a6f61a56ed727f223357f5fb751ed003b64847410b50682787d918"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
@@ -27,7 +27,7 @@
             "anhdaden"
         ],
         "description": "FullHD",
-        "fileSize": 50710,
+        "fileSize": 50760,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "TvSeries",
@@ -35,7 +35,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/bluphim.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-f4081560f37cf452bc0aee5bb0fa213b719f090166a0648d9a71d61f1d4c427a"
+        "fileHash": "sha256-292a8d68905ed96cd0cb8b1255e722c41816cb98f0c027bcecf4b18f0ca2ea91"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHTQProvider.cs3",
@@ -47,7 +47,7 @@
             "anhdaden"
         ],
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "fileSize": 41977,
+        "fileSize": 42109,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -55,7 +55,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhtq.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-683b7b7829e69273d39e3188b1a07ee698e2659cb99ff86675429ee58e698b93"
+        "fileHash": "sha256-2ce58cf16b9bea4f7890fca3e41de8a5c13b200f4670f58b389f63c7303da04a"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
@@ -127,7 +127,7 @@
             "anhdaden"
         ],
         "description": "FullHD",
-        "fileSize": 49162,
+        "fileSize": 49243,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "TvSeries",
@@ -135,7 +135,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimhdc.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-3b9507da96beede9d813c99af1aee031070efce7900f76a7f984aa15b02c8181"
+        "fileHash": "sha256-232d29a66a0cf20ac3aab423adc1e9db8d5a6c60147a55d88099200e87840223"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
@@ -147,7 +147,7 @@
             "anhdaden"
         ],
         "description": "Phim TVB, phim x\u01b0a",
-        "fileSize": 40290,
+        "fileSize": 40266,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "TvSeries",
@@ -155,7 +155,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimlongtieng.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-5be59a94a884715b21d45526b6ad1684cfc4fedcbf21922b689623829787a3a3"
+        "fileHash": "sha256-a38342fd35ddf26124e303aeb8e807e6e0f036123338a373d1fc0849a2ec61a6"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
@@ -206,7 +206,7 @@
             "anhdaden"
         ],
         "description": "Pokemon v\u00e0 super sentai",
-        "fileSize": 36618,
+        "fileSize": 36711,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -214,6 +214,6 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yumeianime.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-8dacdeb32b588497e362dda26c2a58aabdda30805f6c7bdb4a837e42cb600b0f"
+        "fileHash": "sha256-7f1d4b64edfa0da7becd4b024554ea99d28a9cd296cee30dc89504ae385c0fb7"
     }
 ]
