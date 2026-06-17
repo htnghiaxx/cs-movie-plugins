@@ -80,13 +80,13 @@
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "status": 1,
-        "version": 21,
+        "version": 22,
         "name": "NguonCProvider",
         "internalName": "NguonCProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 64778,
+        "fileSize": 65179,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -95,7 +95,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/nguonc.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-52a8740ee354556787225bab953523c7809b728d71dd01f48cabdab5cb20f7e0"
+        "fileHash": "sha256-c49b251da3ebebdaabaedd77dc2d614ffe7dfc3fe5b8815de39f8979edcf0eed"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
@@ -120,14 +120,14 @@
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
         "status": 1,
-        "version": 12,
+        "version": 13,
         "name": "PhimHDCProvider",
         "internalName": "PhimHDCProvider",
         "authors": [
             "anhdaden"
         ],
         "description": "FullHD",
-        "fileSize": 49243,
+        "fileSize": 51483,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "TvSeries",
@@ -135,7 +135,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimhdc.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-232d29a66a0cf20ac3aab423adc1e9db8d5a6c60147a55d88099200e87840223"
+        "fileHash": "sha256-328d779d2e19aaa0dfe535fac5497f7f999bfc35a282a558594bf1158b5c104c"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
