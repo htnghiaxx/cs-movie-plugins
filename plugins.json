@@ -127,7 +127,7 @@
             "anhdaden"
         ],
         "description": "FullHD",
-        "fileSize": 51634,
+        "fileSize": 51531,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "TvSeries",
@@ -135,7 +135,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimhdc.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-c7c8c53da474e7ef8a98581ea961ae54908d3579d4861138f2290b8c67b4080c"
+        "fileHash": "sha256-ccb3f3a752dacaa11f05b0b2b2e453bf9a8d0279b3441ab4b26d7718c3ab1727"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
@@ -167,7 +167,7 @@
             "anhdaden"
         ],
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
-        "fileSize": 47977,
+        "fileSize": 48019,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -175,7 +175,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-054fb2e0bc4749e4f823d09c7e5085bb10476e914219622226141fbce734c116"
+        "fileHash": "sha256-2d002049b26dc8a3ab1894e973ba48e4b81946cedfc823414363f00a30a951e1"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YumeiAnimeProvider.cs3",
