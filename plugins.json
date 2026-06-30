@@ -176,25 +176,5 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
         "apiVersion": 1,
         "fileHash": "sha256-2d002049b26dc8a3ab1894e973ba48e4b81946cedfc823414363f00a30a951e1"
-    },
-    {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/YumeiAnimeProvider.cs3",
-        "status": 1,
-        "version": 2,
-        "name": "YumeiAnimeProvider",
-        "internalName": "YumeiAnimeProvider",
-        "authors": [
-            "anhdaden"
-        ],
-        "description": "Pokemon v\u00e0 super sentai",
-        "fileSize": 36711,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yumeianime.ico",
-        "apiVersion": 1,
-        "fileHash": "sha256-7f1d4b64edfa0da7becd4b024554ea99d28a9cd296cee30dc89504ae385c0fb7"
     }
 ]
