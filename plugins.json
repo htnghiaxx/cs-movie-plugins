@@ -80,13 +80,13 @@
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "NguonCProvider",
         "internalName": "NguonCProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 65179,
+        "fileSize": 67362,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -95,7 +95,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/nguonc.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-c49b251da3ebebdaabaedd77dc2d614ffe7dfc3fe5b8815de39f8979edcf0eed"
+        "fileHash": "sha256-c6862fa59d8057a7e814cdfb3eb979471d86d825f5c202b15cd63a84d90dc441"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
@@ -160,14 +160,14 @@
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
         "status": 1,
-        "version": 29,
+        "version": 30,
         "name": "YanHH3DProvider",
         "internalName": "YanHH3DProvider",
         "authors": [
             "anhdaden"
         ],
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
-        "fileSize": 48019,
+        "fileSize": 49440,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -175,6 +175,6 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-2d002049b26dc8a3ab1894e973ba48e4b81946cedfc823414363f00a30a951e1"
+        "fileHash": "sha256-3dbde7216349996bfa236777266899dd29325ecf09c312ebb49779a98c46c149"
     }
 ]
