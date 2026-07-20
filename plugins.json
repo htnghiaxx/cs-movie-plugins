@@ -80,13 +80,13 @@
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
         "status": 1,
-        "version": 23,
+        "version": 24,
         "name": "NguonCProvider",
         "internalName": "NguonCProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 67362,
+        "fileSize": 66930,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -95,7 +95,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/nguonc.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-c6862fa59d8057a7e814cdfb3eb979471d86d825f5c202b15cd63a84d90dc441"
+        "fileHash": "sha256-4e6ffd41f8df933a97a526ffc16046dfd334ef7158c8cf13839f244b9c7b3ee5"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
