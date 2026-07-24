@@ -178,7 +178,7 @@
         "fileHash": "sha256-1bd72240f129de56f1e8a483f0650dbf347db3065a1a2e9e9fb938a0e0d5e416"
     },
     {
-        "url": "https://codeberg.org/frezza147/test/raw/branch/main/VsMovProvider.cs3",
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/VsMovProvider.cs3",
         "status": 1,
         "version": 1,
         "name": "VsMovProvider",
@@ -187,7 +187,7 @@
             "anhdaden"
         ],
         "fileSize": 54550,
-        "repositoryUrl": "https://codeberg.org/frezza147/test",
+        "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
             "TvSeries",
