@@ -60,13 +60,13 @@
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
         "status": 1,
-        "version": 13,
+        "version": 14,
         "name": "KKPhimProvider",
         "internalName": "KKPhimProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 59848,
+        "fileSize": 59713,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -75,7 +75,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/kkphim.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-52c6476b463207b9ef4404020ca481b9be0a8c2369a370b3269a20a02d49558a"
+        "fileHash": "sha256-078b75be5f92add5622149fe1bb8e0918e7fe9a52f1b690308f6d0875ef04751"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
