@@ -60,13 +60,13 @@
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
         "status": 1,
-        "version": 14,
+        "version": 15,
         "name": "KKPhimProvider",
         "internalName": "KKPhimProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 59713,
+        "fileSize": 59739,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -75,7 +75,7 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/kkphim.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-078b75be5f92add5622149fe1bb8e0918e7fe9a52f1b690308f6d0875ef04751"
+        "fileHash": "sha256-7e765d5f64791b484cebe6e3e17bf82c3ae6c94ee3e6e22aef1a51b3ebf3b4f0"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
@@ -180,13 +180,13 @@
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/VsMovProvider.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "VsMovProvider",
         "internalName": "VsMovProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 54550,
+        "fileSize": 56207,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
@@ -195,6 +195,6 @@
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/vsmov.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-79adc007f6f36530e40231e0256725fc858a25e9a16dd99d50d7209c96f0d974"
+        "fileHash": "sha256-1d087d7a566cd6bbf7ab48657dea18abc7b3ce98b06a80d79bb0ea1bd0ed0ef0"
     }
 ]
