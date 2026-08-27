@@ -2,20 +2,20 @@
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
         "status": 1,
-        "version": 18,
+        "version": 19,
         "name": "AnimeHayProvider",
         "internalName": "AnimeHayProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 45394,
+        "fileSize": 45388,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime"
         ],
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/animehay.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-2f42d27f7047d86aefc9ee4f4cdd8690866018dd464ba12130416433e8f69caa"
+        "fileHash": "sha256-ad1f8573ad036470e4b034b7e470c2e0a72be0d9b98875331f0b0f8678ecf297"
     },
     {
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
