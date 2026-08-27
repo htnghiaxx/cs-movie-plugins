@@ -196,5 +196,24 @@
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/vsmov.ico",
         "apiVersion": 1,
         "fileHash": "sha256-1d087d7a566cd6bbf7ab48657dea18abc7b3ce98b06a80d79bb0ea1bd0ed0ef0"
+    },
+    {
+        "url": "https://gitlab.com/tearrs/movie/-/raw/main/Vn2Provider.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Vn2Provider",
+        "internalName": "Vn2Provider",
+        "authors": [
+            "anhdaden"
+        ],
+        "fileSize": 33263,
+        "repositoryUrl": "https://t.me/cs3vn",
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/vn2.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-f3f5af58931ef35fd30ff4c519e6fc1f919c9957ed83a654d746e9f904a608c9"
     }
 ]
