@@ -1,219 +1,199 @@
 [
     {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
+        "url": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/AnimeHayProvider.cs3",
         "status": 1,
-        "version": 19,
+        "version": 20,
         "name": "AnimeHayProvider",
         "internalName": "AnimeHayProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 45388,
+        "fileSize": 44564,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/animehay.ico",
+        "iconUrl": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/icon/animehay.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-ad1f8573ad036470e4b034b7e470c2e0a72be0d9b98875331f0b0f8678ecf297"
+        "fileHash": "sha256-6cb7ebf485957129c6ddf514024fe24901565e42eb21e833f90c1c94feddf243"
     },
     {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/BluPhimProvider.cs3",
         "status": 1,
-        "version": 24,
+        "version": 25,
         "name": "BluPhimProvider",
         "internalName": "BluPhimProvider",
         "authors": [
             "anhdaden"
         ],
         "description": "FullHD",
-        "fileSize": 52663,
+        "fileSize": 51851,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/bluphim.ico",
+        "iconUrl": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/icon/bluphim.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-959762d7ecd800739b8ed99a027a26e04f595f2ec7a9be116aa1de682783e63f"
+        "fileHash": "sha256-703d035fbce5de6dfc2e2e1b0a1fa3b76faa0addd7a5b9ebe9c1376245360556"
     },
     {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHTQProvider.cs3",
+        "url": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/HHTQProvider.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "HHTQProvider",
         "internalName": "HHTQProvider",
         "authors": [
             "anhdaden"
         ],
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "fileSize": 43793,
+        "description": "Hoạt hình Trung Quốc vietsub",
+        "fileSize": 43091,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
             "AnimeMovie"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/hhtq.ico",
+        "iconUrl": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/icon/hhtq.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-fa25c9d8d7e3af201e9a9458ba6167d7487784db698b752fce4da538c0f2d3bf"
+        "fileHash": "sha256-05ddb84942dea957c9e8dc33ef3a309fb8bb76ac44a357f5716ea56c02cb1d53"
     },
     {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/KKPhimProvider.cs3",
         "status": 1,
-        "version": 15,
+        "version": 16,
         "name": "KKPhimProvider",
         "internalName": "KKPhimProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 59739,
+        "fileSize": 58846,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/kkphim.ico",
+        "iconUrl": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/icon/kkphim.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-7e765d5f64791b484cebe6e3e17bf82c3ae6c94ee3e6e22aef1a51b3ebf3b4f0"
+        "fileHash": "sha256-ddcfe6474084c8ded82208f6cf2bcdf494be438e80c37cde442a77daa711cc73"
     },
     {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/NguonCProvider.cs3",
         "status": 1,
-        "version": 24,
+        "version": 25,
         "name": "NguonCProvider",
         "internalName": "NguonCProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 66959,
+        "fileSize": 65983,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/nguonc.ico",
+        "iconUrl": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/icon/nguonc.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-e6844af2f90b32cf28bdeaa6794864d449372fb9e557f1c000b65a53fa1e81ce"
+        "fileHash": "sha256-389ffca0d1b953e016262b7313ee85c17282b152dd16aee9c2f06aff013a5c41"
     },
     {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
-        "status": 0,
-        "version": 13,
-        "name": "OPhimProvider",
-        "internalName": "OPhimProvider",
-        "authors": [
-            "anhdaden"
-        ],
-        "fileSize": 59237,
-        "repositoryUrl": "https://t.me/cs3vn",
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/ophim.ico",
-        "apiVersion": 1,
-        "fileHash": "sha256-08868afa706356d7843a0473a2a3501f1331f5f3f6da1a51f4c75ec88460d509"
-    },
-    {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimHDCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/PhimHDCProvider.cs3",
         "status": 1,
-        "version": 13,
+        "version": 14,
         "name": "PhimHDCProvider",
         "internalName": "PhimHDCProvider",
         "authors": [
             "anhdaden"
         ],
         "description": "FullHD",
-        "fileSize": 52827,
+        "fileSize": 52157,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimhdc.ico",
+        "iconUrl": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/icon/phimhdc.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-50cda18536f47777281427ebb1c4a0dea6bc2171d059fa9c406dd5a8ea2c4fe3"
+        "fileHash": "sha256-5457f76415f4869ebdc4ddd30d956b3d174d791b09252be59f98a3d015e0fd52"
     },
     {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
+        "url": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/PhimLongTiengProvider.cs3",
         "status": 1,
-        "version": 19,
+        "version": 20,
         "name": "PhimLongTiengProvider",
         "internalName": "PhimLongTiengProvider",
         "authors": [
             "anhdaden"
         ],
-        "description": "Phim TVB, phim x\u01b0a",
-        "fileSize": 41653,
+        "description": "Phim TVB, phim xưa",
+        "fileSize": 41030,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/phimlongtieng.ico",
+        "iconUrl": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/icon/phimlongtieng.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-be6c929c01789e4d18fffa6e6658e2fd3c53e078c3aaeb75b6c3e4b507f89da9"
+        "fileHash": "sha256-f0fb45deff6d477f35491f64248de1485438da640c4ba938b13b1bc0d6f06f04"
     },
     {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
+        "url": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/YanHH3DProvider.cs3",
         "status": 1,
-        "version": 30,
+        "version": 31,
         "name": "YanHH3DProvider",
         "internalName": "YanHH3DProvider",
         "authors": [
             "anhdaden"
         ],
-        "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
-        "fileSize": 49491,
+        "description": "Hoạt hình Trung Quốc thuyết minh",
+        "fileSize": 48857,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
             "AnimeMovie"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/yanhh3d.ico",
+        "iconUrl": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/icon/yanhh3d.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-1bd72240f129de56f1e8a483f0650dbf347db3065a1a2e9e9fb938a0e0d5e416"
+        "fileHash": "sha256-c7e5d880d2e0daad70d1f4ecc5cad4765c85244de49acfb0a357155cb6c77fce"
     },
     {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/VsMovProvider.cs3",
+        "url": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/VsMovProvider.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "VsMovProvider",
         "internalName": "VsMovProvider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 56207,
+        "fileSize": 54847,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "Anime",
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/vsmov.ico",
+        "iconUrl": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/icon/vsmov.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-1d087d7a566cd6bbf7ab48657dea18abc7b3ce98b06a80d79bb0ea1bd0ed0ef0"
+        "fileHash": "sha256-99bb2a6f51517e4f1c9c0b54eace765d90e8c383fc365eb5e2e290c2da36a2ae"
     },
     {
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/Vn2Provider.cs3",
+        "url": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/Vn2Provider.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "Vn2Provider",
         "internalName": "Vn2Provider",
         "authors": [
             "anhdaden"
         ],
-        "fileSize": 33263,
+        "fileSize": 32998,
         "repositoryUrl": "https://t.me/cs3vn",
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/vn2.ico",
+        "iconUrl": "https://raw.githubusercontent.com/htnghiaxx/cs-movie-plugins/main/icon/vn2.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-f3f5af58931ef35fd30ff4c519e6fc1f919c9957ed83a654d746e9f904a608c9"
+        "fileHash": "sha256-9ab64e98855dccb87a2847bc50d011db9a31f9ba4529d9b9beecd57da5c82816"
     }
 ]
